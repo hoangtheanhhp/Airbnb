@@ -67,14 +67,7 @@ Rails.application.configure do
   # }
   config.action_mailer.perform_deliveries = true
   # GMAIL
-  config.action_mailer.smtp_settings = {
-       :address => "smtp.gmail.com",
-       :port => 587,
-       :user_name => "zanbitheanh@gmail.com",
-       :password => "Anhjustmehp9x",
-       :authentication => :plain,
-       :enable_starttls_auto => true
-  }
+
 
   # USE AWS FOR PAPERCLIP
   # config.paperclip_defaults = {

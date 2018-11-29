@@ -25,3 +25,5 @@
 
 # Ignore images
 /public/system/photos/*
+
+/.env
