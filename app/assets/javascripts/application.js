@@ -16,4 +16,5 @@
 //= require jquery-ui/datepicker
 //= require jquery-ui/slider
 //= require toastr
+//= require ckeditor/init
 //= require_tree .
