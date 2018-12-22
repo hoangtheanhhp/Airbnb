@@ -5,6 +5,9 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'ckeditor'
+
+
 gem 'rails', '~> 5.0.3'
 # gem 'sqlite3'
 gem 'mysql2'
